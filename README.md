@@ -7,6 +7,17 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 <br />
 
+### Day2
+
+- Dismissable Widgets
+- List View / Builder
+- Some more Layouting
+- Inner Scaffolding for Snackbar display
+
+<img src="./img/trivial_list_view.gif" height="500">
+
+<br />
+
 ### Day1
 
 - Statefull widget
