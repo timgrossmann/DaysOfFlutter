@@ -7,6 +7,19 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 <br />
 
+### Day4 - Cupertino specifics
+Extremely Trivial trying out of iOS styled widgets and the difference in navigation structure (TabScaffold vs. PageScaffold).   
+
+
+- Cupertino specific Elements, Button, ActionSheet, and Switch
+- Navigation bar, Tab bar
+- iOS specific navigation
+
+<img src="./img/cupertino_tabs.gif" height="500">
+
+
+<br />
+
 ### Day3 - Simple Todo App
 Pretty simple todo app with basic features like adding, checking, and deleting todos.   
 Overlays for a simple "tutorial" and when a new item is added.
