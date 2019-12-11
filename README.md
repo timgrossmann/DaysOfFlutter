@@ -7,6 +7,18 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 <br />
 
+### Day5 - UI Concept
+Learning Layout and Widgets by trying to build a Flutter UI based on [this design concept](https://dribbble.com/shots/3829227-Homecare-Concept-Exploration) of Zazuly Aziz.
+
+- Advanced styling
+- Decorations
+- Alignments
+- Project structure
+
+<img src="./img/ui_concept.gif" height="500">
+
+<br />
+
 ### Day4 - Cupertino specifics
 Extremely Trivial trying out of iOS styled widgets and the difference in navigation structure (TabScaffold vs. PageScaffold).   
 
