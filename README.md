@@ -5,6 +5,18 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 ---
 
+
+<br />
+
+### Day6 - Draggables
+Learning about basic draggable widget.
+
+- Draggables
+- Positioning
+
+<img src="./img/tinder_swipe.gif" height="500">
+
+
 <br />
 
 ### Day5 - UI Concept
@@ -16,6 +28,7 @@ Learning Layout and Widgets by trying to build a Flutter UI based on [this desig
 - Project structure
 
 <img src="./img/ui_concept.gif" height="500">
+
 
 <br />
 
