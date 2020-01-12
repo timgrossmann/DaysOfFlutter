@@ -8,6 +8,19 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 <br />
 
+### Day7 - Firebase Connect
+Trivial firebase conncetion (read & write) chat app. Only two users, defined by the operating system Android or iOS.
+
+- Firebase connection
+- Text Input
+- Android/iOS detection
+- StreamBuilder
+
+<img src="./img/firebase_connect.gif" height="500">
+
+
+<br />
+
 ### Day6 - Draggables
 Learning about basic draggable widget.
 
