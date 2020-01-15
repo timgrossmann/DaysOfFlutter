@@ -8,6 +8,20 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 <br />
 
+### Day8 - Camera and Gallery
+Trivial example on how to use the camera to save an image, get the images on the device, display them and focus them on click.
+
+- Navigator
+- FutureBuilder
+- Directory/Path
+- GridView
+- Camera
+
+<img src="./img/camera_n_library.gif" height="500">
+
+
+<br />
+
 ### Day7 - Firebase Connect
 Trivial firebase conncetion (read & write) chat app. Only two users, defined by the operating system Android or iOS.
 
