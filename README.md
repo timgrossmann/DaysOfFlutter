@@ -8,6 +8,18 @@ Getting used to the Dart language by participating in the [AdventOfCode2019](htt
 
 <br />
 
+### Day9 - Geolocation and Maps
+Trivial example on how to integrate google maps and geolocation into your app using the google maps dependency.
+
+- Google Maps
+- Markers
+- Geolocation
+
+<img src="./img/maps_geolocation.gif" height="500">
+
+
+<br />
+
 ### Day8 - Camera and Gallery
 Trivial example on how to use the camera to save an image, get the images on the device, display them and focus them on click.
 
