@@ -2,7 +2,7 @@ class LayoutConfig {
 
   // layout values for the explore screen
   static const double exploreSymmetricalHorInset = 15.0;
-  static const double exploreSymmetricalVerInset = 20.0;
+  static const double exploreSymmetricalVerInset = 40.0;
   static const double exploreDropShadowBlurRadius = 6.0;
   static const double exploreDropShadowSpreadRadius = 1.0;
 

@@ -5,10 +5,10 @@ class UserProfileImgClipper extends CustomClipper<Path> {
   Path getClip(Size size) {
     final path = Path();
 
-    path.lineTo(0.0, size.height * 0.8);
+    path.lineTo(0.0, size.height * 0.85);
 
-    Offset controlPoint = Offset(size.width / 2, size.height);
-    Offset endPoint = Offset(size.width, size.height * 0.8);
+    Offset controlPoint = Offset(size.width / 2, size.height * 1.0);
+    Offset endPoint = Offset(size.width, size.height * 0.85);
     path.quadraticBezierTo(
         controlPoint.dx, controlPoint.dy, endPoint.dx, endPoint.dy);
 

@@ -56,7 +56,7 @@ class ExploreUserContainerInfo extends StatelessWidget {
                 _distance,
                 style: TextStyle(
                   fontWeight: FontWeight.w100,
-                  fontSize: 18.0,
+                  fontSize: 14.0,
                   color: Colors.black38,
                 ),
               ),

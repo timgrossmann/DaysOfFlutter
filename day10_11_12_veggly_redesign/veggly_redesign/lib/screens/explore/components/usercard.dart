@@ -13,9 +13,10 @@ class UserCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.symmetric(
-        horizontal: LayoutConfig.exploreSymmetricalHorInset,
-        vertical: LayoutConfig.exploreSymmetricalVerInset,
+      margin: EdgeInsets.only(
+        right: LayoutConfig.exploreSymmetricalHorInset,
+        left: LayoutConfig.exploreSymmetricalHorInset,
+        bottom: LayoutConfig.exploreSymmetricalVerInset,
       ),
       child: Stack(
         children: <Widget>[
