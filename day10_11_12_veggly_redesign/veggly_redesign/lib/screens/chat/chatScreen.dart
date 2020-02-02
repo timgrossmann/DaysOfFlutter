@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:veggly_redesign/components/userAccountCircle.dart';
-import 'package:veggly_redesign/screens/chat/components/chats.dart';
+import 'package:veggly_redesign/screens/chat/components/chatHeader.dart';
+import 'package:veggly_redesign/screens/chat/components/chatsList.dart';
 import 'package:veggly_redesign/screens/chat/components/newMatches.dart';
 
 class ChatScreen extends StatelessWidget {
@@ -30,6 +31,7 @@ class ChatScreen extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
           NewMatchesWidget(),
+          ChatHeaderWidget(),
           ChatsWidget(),
         ],
       ),

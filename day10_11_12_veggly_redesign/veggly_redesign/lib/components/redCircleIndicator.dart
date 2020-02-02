@@ -15,7 +15,7 @@ class RedCircleIndicator extends StatelessWidget {
         ),
         child: Center(
           child: Text(
-            '2',
+            '1',
             textAlign: TextAlign.center,
             style: TextStyle(
               fontWeight: FontWeight.w500,

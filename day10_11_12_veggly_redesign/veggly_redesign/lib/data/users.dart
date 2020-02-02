@@ -13,7 +13,8 @@ List<User> users = [
     location: 'Stuttgart',
     occupation: 'Student',
     company: 'Media University',
-    bio: 'Hei Hei, just write me if you are interested, would love to get to know you 😊 😋. I am vegan for a few months now and would my partner to share this love of veganism with me.',
+    bio:
+        'Hei Hei, just write me if you are interested, would love to get to know you 😊 😋. I am vegan for a few months now and would my partner to share this love of veganism with me.',
   ),
   User(
     firstName: 'Amelia',
@@ -29,6 +30,55 @@ List<User> users = [
     company: 'Daimler',
     bio: 'Hey I am Amelia, would love to chat about vegan stuff, you know 🥒',
   ),
+  User(
+    firstName: 'Joan',
+    lastName: 'Itas',
+    age: 23,
+    diet: Diet.vegetarian,
+    gender: Gender.female,
+    interestedIn: Gender.nonBinary,
+    imgUrl: 'assets/img/portraits/portrait_joan.jpeg',
+    distance: 16,
+    location: 'München',
+    occupation: 'UX Designer',
+    company: 'Bosch',
+    bio: 'Looking forward to chatting with you.',
+  ),
+];
+
+List<User> matchedUsers = [
+  User(
+    firstName: 'Amelia',
+    lastName: 'Roxas',
+    age: 25,
+    diet: Diet.vegan,
+    gender: Gender.female,
+    interestedIn: Gender.female,
+    imgUrl: 'assets/img/portraits/portrait_amelia.jpg',
+    distance: 26,
+    location: 'Weil der Stadt',
+    occupation: 'Technical Manager',
+    company: 'Daimler',
+    bio: 'Hey I am Amelia, would love to chat about vegan stuff, you know 🥒',
+  ),
+  User(
+    firstName: 'Anna',
+    lastName: 'Ratovka',
+    age: 27,
+    diet: Diet.vegan,
+    gender: Gender.female,
+    interestedIn: Gender.male,
+    imgUrl: 'assets/img/portraits/portrait_anna.jpg',
+    distance: 12,
+    location: 'Stuttgart',
+    occupation: 'Student',
+    company: 'Media University',
+    bio:
+        'Hei Hei, just write me if you are interested, would love to get to know you 😊 😋. I am vegan for a few months now and would my partner to share this love of veganism with me.',
+  ),
+];
+
+List<User> chatUsers = [
   User(
     firstName: 'Joan',
     lastName: 'Itas',
